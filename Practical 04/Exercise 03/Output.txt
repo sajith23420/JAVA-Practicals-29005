@@ -1,9 +1,0 @@
-          Output
-
-Student Name: John Doe
-Student ID: 1001
-Student Course: Computer Science
-
-Lecturer Name: Jane Smith
-Lecturer ID: 2001
-Lecturer Programme: Data Science
